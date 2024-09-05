@@ -1,0 +1,1 @@
+This project demonstrates how to implement a custom Log4j2 appender in a Spring Boot application to encrypt log messages before writing them to a file. The appender uses AES encryption to secure log data, ensuring that sensitive information is protected.
